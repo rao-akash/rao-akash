@@ -8,7 +8,7 @@
 
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=rao-akash&label=Profile%20views&color=6805D3&style=flat" alt="Akash" /> </p></h3>
    <div align="center">
-<img align="right" alt="pic" src="https://picsum.photos/200"/>
+<img align="right" alt="pic" height="250" width="300" src="https://images.unsplash.com/photo-1511465390398-532913e8328d?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"/>
 
 - 🔭 Focusing on Full Stack Development (Frontend, Backend, and DevOps). 😎
 - 🌱 Working hard to become great at Full Stack development. ❤️
