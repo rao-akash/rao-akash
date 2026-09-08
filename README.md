@@ -64,8 +64,8 @@
 ### **Thanks for checking out my GitHub Profile!** 🙏
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rao-akash&theme=dark&show_icons=true&icon_color=blue" style="display: inline-block; height: 200px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rao-akash&theme=dark&show_icons=true&count_private=true" style="display: inline-block; height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsakashyadav&theme=dark&show_icons=true&icon_color=blue" style="display: inline-block; height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsakashyadav&theme=dark&show_icons=true&count_private=true" style="display: inline-block; height: 200px;" />
 </p>
 
 
